@@ -1,0 +1,23 @@
+{
+	"ProjectName": "react-native-notes",
+	"ProjectPath": "/home/i/git/react-native-notes",
+	"SourceDir": "./",
+	"DistributionDir": "/usr/local/bin",
+	"BuildCommand": "npm run-script build",
+	"StartCommand": "npm run-script start",
+	"InitializationTime": "2018-02-20-12-29-23",
+	"LastConfigurationTime": "2018-02-20-12-30-38",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendFormat": "yml",
+	"BackendLastSyncTime": "2018-02-20-23-16-24",
+	"BackendLastBuildTime": "",
+	"BackendLastPushTime": "",
+	"BackendLastPushSuccessful": false,
+	"BackendProjectID": "aee1e9b7-16b6-11e8-b5df-89121fa705ee",
+	"BackendProjectName": "note2",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/aee1e9b7-16b6-11e8-b5df-89121fa705ee/build",
+	"BackendProjectCreationTime": "2018-02-21T03:24:10.999Z",
+	"BackendProjectLastUpdatedTime": "2018-02-21T03:25:46.455Z"
+}
